@@ -2,6 +2,6 @@
 
 ## This Lab04 was accomplished with:
 
--Nicholas Brown
--Ryan Gosselin
--Darshon Crudup
+-Nicholas Brown<br>
+-Ryan Gosselin<br>
+-Darshon Crudup<br>
